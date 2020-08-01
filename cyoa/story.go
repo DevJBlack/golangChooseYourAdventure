@@ -44,8 +44,8 @@ var defaultHanlderTmpl = `
 			.context {
 				max-width: 60rem;
 				margin: auto;
-				padding: 10px;
-				border: 20px solid #6699cc;
+				padding: 1rem;
+				border: 2rem solid #6699cc;
 				background-color: #66ccff;
 			}
 		
